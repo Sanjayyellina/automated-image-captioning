@@ -64,10 +64,10 @@ PIL (Pillow) — Image processing
 Shows practical application of Vision + Language AI.
 Connects AI with real-world business needs (news/media SEO + accessibility).
 Integrates modern AI libraries: Transformers, BLIP, BeautifulSoup.
-Portfolio-ready: demonstrates your ability to build end-to-end AI solutions beyond just chatbots.
+
 
 ---
 
 ## Author
 Abhinav Sanja (sanjayyellina)
-Graduate Student · Business Analytics / Computer Science ·  Generative AI & Cybersecurity Enthusiast
+Masters Graduate Student · Business Analytics / Computer Science ·  Generative AI & Cybersecurity Enthusiast

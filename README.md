@@ -19,7 +19,6 @@ It can automatically generate meaningful captions for images found on a webpage,
 
 ##  Architecture
 
-```mermaid
 flowchart TD
     A[Webpage URL] --> B[Requests + BeautifulSoup]
     B --> C[Image URLs Extracted]
@@ -29,8 +28,8 @@ flowchart TD
 
 ---
 
-
 ##  Getting Started
+
 1. Clone the repo
 git clone https://github.com/Sanjayyellina/automated-image-captioning.git
 cd automated-image-captioning
@@ -42,7 +41,6 @@ pip install -r requirements.txt
 4. Run the script
 python3 automate_url_captioner.py
 
-
 ---
 
 ##  Output
@@ -51,10 +49,9 @@ Example snippet:
 https://upload.wikimedia.org/wikipedia/commons/c/c9/IBM_Research_Almaden.jpg: a modern glass office building
 https://upload.wikimedia.org/wikipedia/commons/5/51/Thomas_J._Watson.jpg: a portrait of a man in a suit
 
-
 ---
 
- Tech Stack
+## Tech Stack
 Python 3
 Transformers (Hugging Face) — BLIP model for captioning
 Requests — HTTP requests

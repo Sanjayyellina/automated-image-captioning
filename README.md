@@ -28,7 +28,7 @@ flowchart TD
 
 ---
 
-##  Getting Started
+##   Getting Started
 
 1. Clone the repo
 git clone https://github.com/Sanjayyellina/automated-image-captioning.git
@@ -43,7 +43,7 @@ python3 automate_url_captioner.py
 
 ---
 
-##  Output
+##    Output
 Captions are written into captions.txt.
 Example snippet:
 https://upload.wikimedia.org/wikipedia/commons/c/c9/IBM_Research_Almaden.jpg: a modern glass office building
@@ -51,7 +51,7 @@ https://upload.wikimedia.org/wikipedia/commons/5/51/Thomas_J._Watson.jpg: a port
 
 ---
 
-## Tech Stack
+##    Tech Stack
 Python 3
 Transformers (Hugging Face) — BLIP model for captioning
 Requests — HTTP requests
@@ -60,7 +60,7 @@ PIL (Pillow) — Image processing
 
 ---
 
-##  Why this project is impressive
+##    Why this project is impressive
 Shows practical application of Vision + Language AI.
 Connects AI with real-world business needs (news/media SEO + accessibility).
 Integrates modern AI libraries: Transformers, BLIP, BeautifulSoup.

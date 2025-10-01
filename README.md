@@ -69,5 +69,5 @@ Integrates modern AI libraries: Transformers, BLIP, BeautifulSoup.
 ---
 
 ## Author
-Abhinav Sanja (sanjayyellina)
+Abhinav Sanjay (sanjayyellina)
 Masters Graduate Student · Business Analytics / Computer Science ·  Generative AI & Cybersecurity Enthusiast
